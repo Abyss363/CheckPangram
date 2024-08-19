@@ -34,7 +34,7 @@
                 Console.Write("The sentence is missing: ");
                 foreach (char i in missingLetter)
                 {
-                    Console.Write(i + ", ");
+                    Console.Write(i + " ");
                 }
             }
         }
