@@ -35,6 +35,7 @@
                 foreach (char i in missingLetter)
                 {
                     Console.Write(i + " ");
+                    if(i == " ") break;
                 }
             }
         }
